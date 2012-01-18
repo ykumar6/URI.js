@@ -1,3 +1,5 @@
+This fork adds CommonJS / Node.js module support
+
 # URI.js #
 
 * [About](http://medialize.github.com/URI.js/)
