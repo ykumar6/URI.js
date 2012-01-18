@@ -1292,6 +1292,6 @@ p.equals = function(uri) {
     return true;
 };
 
-window.URI = URI;
+module.exports.URI = URI;
 
 })();
